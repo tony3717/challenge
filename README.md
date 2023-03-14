@@ -1,4 +1,4 @@
-local
+Local
 REMOTE
 # challenge
 voici 
